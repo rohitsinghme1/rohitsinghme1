@@ -1,5 +1,5 @@
 # 👋 Hi, I'm Rohit Singh!
-<br>I’m a Master of Computer Application (MCA) student with a strong passion for coding, problem-solving, and software development. With a solid foundation in computer science and experience in multiple programming languages and technologies, I enjoy building robust, scalable, and innovative solutions.<br><br>🚀 My Skills:<br>Languages: Java, C++, JavaScript, SQL<br>Web Development: HTML, CSS, JavaScript, <br>Database Technologies: MySQL, MongoDB,
+<br>I’m a Master of Computer Application (MCA) student with a strong passion for coding, problem-solving, and software development. With a solid foundation in computer science and experience in multiple programming languages and technologies, I enjoy building robust, scalable, and innovative solutions.<br><br>🚀 My Skills:<br>Languages: Java, C++, JavaScript, SQL<br>Web Development: HTML, CSS, JavaScript, JQuery <br>Database Technologies: MySQL, MongoDB,
 
 
 ## 🌐 Socials:
